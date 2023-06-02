@@ -44,8 +44,6 @@ Maps the 3D court onto a 2D version, required for analysis of movement.
 
 ![MiniMap](https://user-images.githubusercontent.com/179457/71530819-2c5e6c80-28ec-11ea-91fe-4dc9d2d19793.jpg)
 
-See also [YouTube video](https://www.youtube.com/watch?v=tpavRDeDlTI)
-
 See details [here](https://github.com/stephanj/basketballVideoAnalysis/tree/master/homography-mapping)
 and [article](https://www.linkedin.com/pulse/journey-towards-creating-basketball-mini-map-stephan-janssen/) with [tutorial](https://github.com/stephanj/basketballVideoAnalysis/tree/master/mini-map-tutorial).
 
